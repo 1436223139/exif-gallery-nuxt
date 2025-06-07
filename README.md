@@ -3,6 +3,7 @@
 [English](README.md) | [简体中文](README_zh.md)
 
 A full-stack photo album solution that integrates AI intelligent processing, browser image compression, and other functions.
+集成AI智能处理、浏览器图片压缩等功能的全栈相册解决方案。
 
 ![exif-gallery-nuxt](./public/exif-gallery-nuxt.jpg)
 
